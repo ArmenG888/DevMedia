@@ -199,3 +199,9 @@ a.article-title:hover {
   transition: 1s;
   transition-delay: 0.75s;
 }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
